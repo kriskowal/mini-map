@@ -1,6 +1,6 @@
 {
   "name": "mini-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A very small subset of ES6 Map that is good enough for small collections",
   "main": "mini-map.js",
   "directories": {

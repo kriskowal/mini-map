@@ -10,7 +10,7 @@ Supports `has`, `get`, `set`, `delete`, and `clear`.
 The `MiniMap` constructor supports no arguments.
 
 ```js
-var map = new Map();
+var map = new MiniMap();
 var key = {};
 expect(map.has(key)).toBe(false);
 map.set(key, 10);

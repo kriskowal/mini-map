@@ -1,0 +1,25 @@
+{
+  "name": "mini-map",
+  "version": "0.0.0",
+  "description": "A very small subset of ES6 Map that is good enough for small collections",
+  "main": "mini-map.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jasminum": "^2.0.5"
+  },
+  "scripts": {
+    "test": "jasminum test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kriskowal/mini-map.git"
+  },
+  "author": "Kris Kowal <kris@cixar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kriskowal/mini-map/issues"
+  },
+  "homepage": "https://github.com/kriskowal/mini-map"
+}

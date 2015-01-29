@@ -9,6 +9,10 @@ Keys may be objects.
 Supports `has`, `get`, `set`, `delete`, and `clear`.
 The `MiniMap` constructor supports no arguments.
 
+```
+$ npm install --save mini-map
+```
+
 ```js
 var map = new MiniMap();
 var key = {};
